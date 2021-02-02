@@ -3,6 +3,9 @@ Quantizador de Audio. Vai separar o sinal por níveis de tensão, podendo diminu
 
 Em audio é um recurso usado para deixar um audio robotizado ou com um carater mais "retrô".
 
+![Quantizador](https://github.com/Arthurmgwork/Quantizador/blob/main/Sinal%20Quantizado(png).png)
+
+
 Tem a versão do código em C MATLAB e a versão do código em PYTHON.
 
 Há um arquivo Quantizador.pdf que explica todo o programa. É um mini relatório de quando fiz esse código para o mestrado.
