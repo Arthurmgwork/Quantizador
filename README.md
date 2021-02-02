@@ -56,3 +56,7 @@ ilustra um comparativo entra os sinais analógico, o sinal amostrado e o sinal
 digital.
 
 
+Comparativo entre os sinais analógico, amostrado e digital.
+
+
+
