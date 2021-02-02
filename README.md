@@ -28,7 +28,7 @@ Quando mandar rodar o programa, só vai rodar um novo gráfico quando fechar o g
 
 Para descrever uma grandeza analógica de forma computacional é necessário realizar uma conversão de Analógica para Digital, esta conversão é feita por intermédio de um Conversor A/D. O Conversor A/D segue o esquemático da Figura 1, no qual possuímos um sinal de entrada analógico, esse sinal de entrada é amostrado por meio do Amostrador, após amostrado o sinal torna-se analógico em amplitude e discreto no tempo, posterior ao Amostrador existe o Quantizador, no qual é responsável por discretizar o sinal em amplitude, transformando o sinal de entrada analógico num sinal de saída digital.
 
-  Sinal Quantizado(png)
+![ConversorAD](https://github.com/Arthurmgwork/Quantizador/blob/main/Conversor%20AD.png)
   
   
  O Amostrador é o responsável por discretizar o sinal no tempo, ou
@@ -42,7 +42,7 @@ pelo menos, duas vezes maior que a maior frequência do sinal. A Figura 2
 ilustra um sinal de entrada analógico em azul e um sinal amostrado em
 vermelho. 
 
-Comparativo sinal analógico e sinal amostrado
+![SinalAnalógico/Amostrado](https://github.com/Arthurmgwork/Quantizador/blob/main/Comparativo%20de%20sinal%20AD.png)
 
 Após realizada a amostragem do sinal, faz-se necessário realizar a
 discretização da amplitude do sinal, esta etapa do conversor A/D dar-se por
@@ -59,7 +59,7 @@ ilustra um comparativo entra os sinais analógico, o sinal amostrado e o sinal
 digital.
 
 
-Comparativo entre os sinais analógico, amostrado e digital.
+![SinalAnalógicoAmostradoDigital](https://github.com/Arthurmgwork/Quantizador/blob/main/Sinal%20analogico%20-%20amostrado%20-%20digital.png)
 
 
 
